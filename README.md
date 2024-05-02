@@ -6,7 +6,7 @@
 
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/?username=nolascolunardi&show_icons=true&count_private=true&hide_border=true&title_color=7641FC&icon_color=D8C8FF&text_color=D8C8FF&bg_color=0d1117" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolascolunardi&layout=compact&hide_border=true&title_color=7641FC&icon_color=D8C8FF&text_color=D8C8FF&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolascolunardi&layout=compact&hide_border=true&title_color=7641FC&icon_color=D8C8FF&text_color=D8C8FF&bg_color=0d1117"/>
 </div>
 <br />
 
@@ -16,7 +16,7 @@
 </div> 
     
 ### Main skills:
-<div>
+<div align="center">
   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="left" alt="PHP" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -26,7 +26,7 @@
 
 
 ### Studying in this moment:
-<div>
+<div align="center">
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
