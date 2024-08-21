@@ -11,11 +11,9 @@
   <br />
 </div>
       
-### Já usei:
-[![Minhas Skills](https://skillicons.dev/icons?i=html,css,java,php,c,bootstrap)](https://skillicons.dev)
+### Skills:
+[![Minhas Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,java,php,c,python,mysql,html,css,bootstrap)](https://skillicons.dev)
 
-### Estou estudando:
-[![Minhas Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,python,mysql)](https://skillicons.dev)
 
 ### Contatos:
 <div> 
