@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B99DF3&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+My+name+is+Ana+Nolasco.;I'm+19+years+old.;Developer+Student.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
 
-<div>  
-    <img width="75%" src="https://github-readme-stats.vercel.app/api?username=nolascolunardi&show_icons=true&count_private=true&hide_border=true&title_color=7641FC&icon_color=D8C8FF&text_color=D8C8FF&bg_color=0d1117" />
+<div align ="center">  
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=nolascolunardi&show_icons=true&count_private=true&hide_border=true&title_color=7641FC&icon_color=D8C8FF&text_color=D8C8FF&bg_color=0d1117" />
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nolascolunardi&layout=compact&hide_border=true&title_color=7641FC&icon_color=D8C8FF&text_color=D8C8FF&bg_color=0d1117"/>
   
   <br />
