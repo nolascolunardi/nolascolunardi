@@ -12,7 +12,7 @@
 </div>
       
 ### Skills:
-[![Minhas Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,jest,postgres,typeorm,nest,java,php,c,python,mysql,html,css,bootstrap)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,jest,postgres,nest,java,php,c,python,mysql,html,css,bootstrap)](https://skillicons.dev)
 
 
 ### Contatos:
